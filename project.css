@@ -1,0 +1,166 @@
+@font-face {
+  font-family: nazanin;
+  src: url('font/Vazir-FD.eot');
+  src: url('font/Vazir-FD.eot?#iefix') format('FontName-opentype'),
+       url('font/Vazir-FD.woff') format('woff'),
+       url('font/Vazir-FD.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  
+}
+
+@font-face {
+  font-family: nazanin;
+  src: url('font/Vazir-Bold-FD.eot');
+  src: url('font/Vazir-Bold-FD.eot?#iefix') format('FontName-opentype'),
+       url('font/Vazir-Bold-FD.woff') format('woff'),
+       url('font/Vazir-Bold-FD.ttf') format('truetype');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: nazanin;
+  src: url('font/Vazir-FD.eot');
+  src: url('font/Vazir-FD.eot?#iefix') format('FontName-opentype'),
+       url('font/Vazir-FD.woff') format('woff'),
+       url('font/Vazir-FD.ttf') format('truetype');
+  font-weight: 400;
+
+}
+
+body{
+	font-family:nazanin;
+	
+	
+}
+
+
+
+
+
+.slider{
+	width:100%;
+	height:80vh;
+	
+	
+	
+}
+
+.photo{
+	width:100%;
+	height:80vh;
+	position:relative;
+
+	
+	
+	
+	
+}
+
+.list{
+	position:absolute;
+	top:50px;
+	
+	right:35%;
+	display:flex;
+	text-align:center;
+	text-decoration:none;
+	float:right;
+	direction:rtl;
+	list-style:none;
+	border:3px solid white;
+	border-radius:10px;
+	width:25%;
+	font-family:nazanin;
+	
+	
+	
+	
+}
+
+ul li{
+	margin:8px;
+	padding:5px;
+	
+	
+}
+.titr{
+	position:absolute;
+	top:30vh;
+	right:40%;
+	color:white;
+	
+	
+	
+	
+	
+	
+}
+.matn{
+	text-align:center;
+	direction:rtl;
+	border:3px solid pink;
+	border-radius:20px;
+	background-color:pink;
+	
+}
+
+.row{
+	width:100%;
+	display:flex;
+	justify-content: space-around;
+	border:3px solid #e5d3d6;
+	margin-top:8px;
+	background-color:#e5d3d6;
+	
+	
+	
+}
+.naghsh{
+	width:20%;
+	padding:8px;
+	margin-top:15px;
+	
+	
+	
+}
+.container{
+	max-width:1366px;
+	
+	
+	
+}
+
+.sele{
+	width:100%;
+	height:50vh;
+	display:flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: space-around;
+    justify-content: space-between;
+	z-index:2;
+	background-color:green;
+
+
+	
+}
+
+.rang{
+	
+	opacity:0.5;
+	
+	
+}
+
+
+
+
+	
+	
+	
+
+
+
+
+
